@@ -24,7 +24,7 @@ class SpringReactiveProjectApplicationTests {
 	
 //==============================================================================================================================================
 	
-	//  Unit Testing in Vaccine_Provider class:
+	//  Unit Testing of Vaccine_Provider class:
 	
 	@Autowired
 	Vaccine_Provider provider;
@@ -47,7 +47,7 @@ class SpringReactiveProjectApplicationTests {
 	
 //==============================================================================================================================================
 	
-	//  Unit Testing in Vaccine_Controller class:
+	//  Unit Testing of Vaccine_Controller class:
 	
 	@Autowired
 	Vaccine_Controller controller;
